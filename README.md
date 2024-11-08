@@ -12,7 +12,7 @@ Crazybaby is a modern and responsive landing page for a futuristic wireless spea
 The project is built using BEM methodology, which helps maintain a clear hierarchy of components, making the project easier to support and expand.
 
 ## Useful links
-- [DEMO LINK]()
+- [DEMO LINK](https://yurko-komanitskyi.github.io/Crazybaby_landing/)
 - [DESIGN LINK](https://www.figma.com/design/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?node-id=19655-32&node-type=canvas&t=p1BOX8lN2YXnpxJN-0)
 
 ## Getting Started
