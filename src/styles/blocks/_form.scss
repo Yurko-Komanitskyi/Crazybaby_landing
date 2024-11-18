@@ -14,9 +14,9 @@
     display: block;
     padding: 12px 0;
     padding-left: 20px;
-    color: $c-grayText;
+    color: $c-gray-text;
     background-color: transparent;
-    border: 1px solid $c-borderForm;
+    border: 1px solid $c-border-form;
 
     &:hover {
       border: 1px solid $c-black;
@@ -27,7 +27,7 @@
 
       @extend %main-text;
 
-      color: $c-grayText;
+      color: $c-gray-text;
     }
 
     &:focus {
@@ -42,8 +42,8 @@
 
     &:-webkit-autofill {
       font-family: Inter, sans-serif;
-      -webkit-text-fill-color: $c-grayText;
-      border: 1px solid $c-borderForm;
+      -webkit-text-fill-color: $c-gray-text;
+      border: 1px solid $c-border-form;
       -webkit-box-shadow: 0 0 0 1000px $c-white inset;
       box-shadow: 0 0 0 1000px $c-white inset;
     }

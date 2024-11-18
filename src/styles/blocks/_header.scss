@@ -30,7 +30,7 @@
     cursor: pointer;
 
     &:hover {
-      color: $c-greenTitle;
+      color: $c-green-title;
     }
   }
 
@@ -48,13 +48,13 @@
     cursor: pointer;
 
     &:hover {
-      color: $c-greenTitle;
+      color: $c-green-title;
     }
 
     color: $c-title;
 
     &--unactive {
-      color: $c-grayText;
+      color: $c-gray-text;
     }
   }
 

@@ -8,18 +8,18 @@
   }
 
   &--disabled {
-    background-color: $c-disabledBlack;
+    background-color: $c-disabled-black;
   }
 
   &--green {
     background-color: $c-green;
 
     &:hover {
-      background-color: $c-greenTitle;
+      background-color: $c-green-title;
     }
 
     &--disabled {
-      background-color: $c-disabledGreen;
+      background-color: $c-disabled-green;
     }
   }
 }

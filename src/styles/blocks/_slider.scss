@@ -5,7 +5,7 @@
 
   &__container {
     margin-top: 30px;
-    background-color: $c-backGreen;
+    background-color: $c-back-green;
     padding-top: 30px;
 
     @include on-tablet {
@@ -29,7 +29,7 @@
   }
 
   &__itemTitle {
-    color: $c-greenTitle;
+    color: $c-green-title;
   }
 
   &__itemList {
@@ -98,7 +98,7 @@
     font-weight: 400;
     font-size: 11px;
     line-height: 14px;
-    color: $c-greenTitle;
+    color: $c-green-title;
   }
 
   &__img {
